@@ -1,2 +1,3 @@
 # Ventilation Fan Fault Detection
-this is dataset of ventialtion fan 
+using Machine Learning algorithms in rotating machine fault detection based on audio signals.
++ dataset of ventialtion fan 
